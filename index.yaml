@@ -9,6 +9,6 @@ entries:
     name: jenkinz
     type: application
     urls:
-    - https://github.com/DivineTheAnalyst/helm-charts.git/jenkinz-0.1.0.tgz
+    - https://divinetheanalyst.github.io/helm-charts/jenkinz-0.1.0.tgz
     version: 0.1.0
 generated: "2024-11-28T12:39:52.496923748Z"
