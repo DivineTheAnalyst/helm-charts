@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jenkinz:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-28T12:39:52.497518105Z"
+    description: A Helm chart for Kubernetes
+    digest: c09303a8a3470e4a83ede921ae746e001365e269181823f8c9a03ea606ec39dd
+    name: jenkinz
+    type: application
+    urls:
+    - https://github.com/DivineTheAnalyst/helm-charts.git/jenkinz-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-28T12:39:52.496923748Z"
